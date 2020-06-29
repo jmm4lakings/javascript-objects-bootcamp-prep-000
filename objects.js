@@ -1,3 +1,3 @@
 var playlist = { 'song': 'title'}
 
-var updatePlaylist
+var updatePlaylist = function
