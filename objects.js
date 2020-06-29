@@ -10,3 +10,5 @@ var meals = {
   breakfast: 'eggs',
   breakfast: 'bacon'
 }
+var meals = { [firstMeal]: 'oatmeal',
+meals = { breakfast: 'oatmeal } 
