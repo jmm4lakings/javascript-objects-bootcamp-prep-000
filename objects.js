@@ -1,4 +1,4 @@
-var meals = ( {} );
+var playlist = ( {} );
 
-var meals = new Object
+var playlist = new Object
 
