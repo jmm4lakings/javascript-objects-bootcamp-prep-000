@@ -4,3 +4,5 @@ var playlist = ( {'song': 'title'});
   playlist[artistName] = songTitle
   return playlist
   }
+  
+  function removeFromPlaylist( playlist, artistName) {
