@@ -6,3 +6,5 @@ var playlist = ( {'song': 'title'});
   }
   
   function removeFromPlaylist( playlist, artistName) {
+    delete
+  }
